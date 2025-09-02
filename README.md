@@ -58,22 +58,22 @@ Designed for **modern healthcare**, MediTrack improves patient outcomes by lever
 
 | Home Page | Features | How It Works | Call to Action |
 |-----------|----------|--------------|----------------|
-| ![Home](./screenshots/screenshot1.png) | ![Features](./screenshots/screenshot2.png) | ![How It Works](./screenshots/screenshot3.png) | ![CTA](./screenshots/screenshot4.png) |
+
 
 ---
 
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-- ⚛️ React.js / Next.js  
+- ⚛️ React.js 
 - 🎨 TailwindCSS  
 
 **Backend:**  
-- 🟢 Node.js / Express.js  
-- 🗄️ MongoDB  
+- 🟢 Mysql 
+- 🗄️ Supabase
 
 **Security:**  
-- 🔐 JWT Authentication  
+
 - 🔑 Multi-Factor Authentication  
 - 📊 Encrypted Data Storage  
 
