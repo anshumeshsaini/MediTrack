@@ -11,7 +11,6 @@
 - [About the Project](#-about-the-project)  
 - [✨ Features](#-features)  
 - [🏥 How MediTrack Works](#-how-meditrack-works)  
-- [🖼️ Screenshots](#️-screenshots)  
 - [🛠️ Tech Stack](#️-tech-stack)  
 - [⚙️ Installation & Setup](#️-installation--setup)  
 - [🚀 Deployment](#-deployment)  
@@ -83,7 +82,7 @@ Designed for **modern healthcare**, MediTrack improves patient outcomes by lever
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/meditrack.git
+git clone https://github.com/anshumeshsaini/MediTrack.git
 
 # Navigate to project folder
 cd meditrack
