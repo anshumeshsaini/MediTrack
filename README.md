@@ -1,73 +1,95 @@
-# Welcome to your Lovable project
+# 🏥 MediTrack – Comprehensive Patient History Management  
 
-## Project info
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
+![Made With](https://img.shields.io/badge/Made%20With-❤️%20React%20%7C%20Node.js%20%7C%20MongoDB-blue)  
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)  
 
-**URL**: https://lovable.dev/projects/e45f48d6-5608-41b4-ae31-94c23a8f5810
+---
 
-## How can I edit this code?
+## 📑 Table of Contents
+- [About the Project](#-about-the-project)  
+- [✨ Features](#-features)  
+- [🏥 How MediTrack Works](#-how-meditrack-works)  
+- [🖼️ Screenshots](#️-screenshots)  
+- [🛠️ Tech Stack](#️-tech-stack)  
+- [⚙️ Installation & Setup](#️-installation--setup)  
+- [🚀 Deployment](#-deployment)  
+- [📈 Roadmap](#-roadmap)  
+- [🤝 Contributing](#-contributing)  
+- [📞 Contact](#-contact)  
+- [📜 License](#-license)  
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📖 About the Project  
+MediTrack is a **secure and intelligent platform** that revolutionizes healthcare data management by enabling hospitals and doctors to access, update, and analyze **comprehensive patient history records** in real-time.  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e45f48d6-5608-41b4-ae31-94c23a8f5810) and start prompting.
+Designed for **modern healthcare**, MediTrack improves patient outcomes by leveraging **AI-driven insights, role-based access control, and predictive analytics**.  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Features  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✅ **Secure Records** – Military-grade encryption for all patient data  
+✅ **Role-Based Access** – Granular permission controls for hospitals and doctors  
+✅ **Instant Search** – AI-powered search with millisecond response time  
+✅ **Patient Care** – Comprehensive medical history with timeline visualization  
+✅ **AI Insights** – Predictive analytics for better treatment outcomes  
+✅ **Real-Time Updates** – Synchronization across devices  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🏥 How MediTrack Works  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### For Hospitals 🏨  
+1️⃣ **Secure Login** – Multi-factor authentication  
+2️⃣ **Add Patient Records** – Intuitive forms to create patient histories  
+3️⃣ **Manage Records** – Update and analyze patient data  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### For Doctors 👩‍⚕️👨‍⚕️  
+1️⃣ **Doctor Login** – Secure access  
+2️⃣ **Search Patients** – Find by unique ID or name  
+3️⃣ **View History** – Visualize complete medical records  
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🖼️ Screenshots  
+
+| Home Page | Features | How It Works | Call to Action |
+|-----------|----------|--------------|----------------|
+| ![Home](./screenshots/screenshot1.png) | ![Features](./screenshots/screenshot2.png) | ![How It Works](./screenshots/screenshot3.png) | ![CTA](./screenshots/screenshot4.png) |
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+- ⚛️ React.js / Next.js  
+- 🎨 TailwindCSS  
+
+**Backend:**  
+- 🟢 Node.js / Express.js  
+- 🗄️ MongoDB  
+
+**Security:**  
+- 🔐 JWT Authentication  
+- 🔑 Multi-Factor Authentication  
+- 📊 Encrypted Data Storage  
+
+---
+
+## ⚙️ Installation & Setup  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/meditrack.git
+
+# Navigate to project folder
+cd meditrack
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e45f48d6-5608-41b4-ae31-94c23a8f5810) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
